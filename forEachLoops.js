@@ -13,6 +13,7 @@ let array = [1, 2, 3, 4, 5];
 let numbers = [1, 2, 3, 4, 5];
 let sum = 0;
 // 3. Use a forEach loop to calculate and print the sum of all the elements in the array.
+//  - There's a couple ways to solve this one - think through the logic and ask for support if you need it :)
 
 
 
